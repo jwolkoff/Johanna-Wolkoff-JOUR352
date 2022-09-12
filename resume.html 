@@ -1,38 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Johanna Wolkoff Resume</title>
 </head> 
 <body>
     <h1>Johanna Wolkoff</h1>
     <h2><strong>Journalism Student</strong></h2>
+    `
     <div id="Contact">
     jwolkoff@terpmail.umd.edu <br>
     LinkedIn: https://www.linkedin.com/in/johanna-wolkoff-31196124a <br>
     Twitter: https://twitter.com/JohannaWolkoff <br>
     Github: https://github.com/jwolkoff <br>
     </div>
+    
     <h2>Experience</h2>
         <h3>Production Crew Member</h3>
         <h4>Washington Nationals</h4>
         <h5>April 2022 - Present</h5>
             <p>I mainly work as a replay operator for the Washington Nationals videoboard team, quickly providing replays for the director, building packages, creating a highlight reel for the eighth inning and putting together a rollout package for the end of the game. I also work with Click to operate videos and commercials during the game. I occasionally do live social media editing and quickly edit together highlight packages to be posted on Twitter and Instagram. </p>
+            
         <h3>Student Producer</h3>
         <h4>BIG 10 Network+</h4>
         <h5>2020-Present</h5>
             <p>This is a student run team affiliated with the subscription program BIG 10 Network+. I use 3Play or EVS replay systems and serve as director and technical director for various sports at Maryland. I set up and strike cameras and broadcast equipment. </p>
+            
         <h3>Intern</h3>
         <h4>Maryland Athletics Media Relations Team</h4>
         <h5>2020-2022</h5>
             <p>I collaborated with media relations specialists to operate all media responsibilities on game days and record statistics. I also cut clips from live game feeds and posted them directly to University of Maryland sports Twitter accounts using Clip Pro by WSC Sports and wrote captions for Twitter posts. This included live tweeting during games and posting to Instagram stories using these clips. I also created and published notifications for the exclusive One Maryland sports communications app.</p>
+            
         <h3>Senior Producer</h3>
         <h4>Terrapin Sports Central </h4>
         <h5>2020-Present</h5>
             <p>I coordinate with reporters and directors to produce stories on coaches, games and athletes for this student-run TV show and website covering University of Maryland sports. I also direct and tech direct each bi-weekly show in a broadcast studio. </p>
+            
         <h3>Student Advising Assistant</h3>
         <h4>College of Journalism Advising Office</h4>
         <h5>2021-Present</h5>
             <p>I aid academic advisers with scheduling appointments, work with students to create schedules and answer academic questions, organize files, deliver mail, and other office tasks. </p>
+    
     <h2>Education</h2>
      <ul>
       <li>Bachelor's degree, Journalism and History, University of Maryland, College Park, 2024 </li>
