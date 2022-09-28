@@ -1,0 +1,30 @@
+body {
+    background-color:#9AB39E;
+    text-align: center;
+}
+
+button {
+    background-color:#0C8346;
+    color:whitesmoke;
+    Font-Family: 'Open Sans', Sans-Serif;
+    width:200px;
+    padding:15px;
+    margin-top: 50px;
+    border-radius:12px;
+    border:none;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color:#163e1f;
+}
+
+h1 {
+    Font-Family: 'Raleway', Sans-Serif;
+    font-weight:lighter;
+}
+
+h2 {
+    Font-Family: 'Open Sans', Sans-Serif;
+    font-weight:lighter;
+}
