@@ -16,15 +16,15 @@ div {
     width: 300px;
     height: 300px;
     text-align:center;
-    font-size:44px;
+    font-size:25px;
     font-family: 'Courgette', cursive;
     color:#C68A98;
     border:3px solid #9AB39E;
-    padding: 60px 30px 10px 30px;
+    padding: 80px 30px 1px 30px;
     margin:auto;
 }
 
 #highlight {
     color:#163E1F
-    font-weight:bold;
+    font-weight:
 }
