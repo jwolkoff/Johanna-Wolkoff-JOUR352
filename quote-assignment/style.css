@@ -1,0 +1,30 @@
+/*
+MY COLOR PALETTE
+Beige - #f5ebe0
+Sage green - #9AB39E
+Lavender - #C3B4CB
+Mauve - #C68A98
+Forest green - #163E1F
+*/
+
+body {
+    background-color:#f5ebe0;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Courgette', cursive;
+    color:#C68A98;
+    border:3px solid #9AB39E;
+    padding: 60px 30px 10px 30px;
+    margin:auto;
+}
+
+#highlight {
+    color:#163E1F
+    font-weight:bold;
+}
