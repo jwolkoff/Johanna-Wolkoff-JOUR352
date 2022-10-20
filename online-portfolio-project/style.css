@@ -19,10 +19,9 @@ h2 {
     color:#474747;
 }
 #headshot {
-    border-radius: 70%;
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
+    padding:10px;
+    margin:20px 0px 20px 40px;
+    border-radius: 500px;
   width:300px;
 }
 h3 {
@@ -45,7 +44,7 @@ p {
     color:#8A9CD0;
 }
 .sidespace {
-    margin: 0px 100px 0px 100px;
+    margin: 0px 200px 0px 200px;
 }
 
 .contact {
@@ -60,3 +59,20 @@ button {
 }
 button:hover {
     background-color:#8A9CD0;
+}
+
+#title {
+    font-size: 23px;
+    font-weight: bolder;
+}
+#company {
+    font-size: 20px;
+    font-weight: bold;
+}
+#date {
+    font-size: 20px;
+    font-weight: bold;
+}
+#description {
+    font-size: 18px;
+}
