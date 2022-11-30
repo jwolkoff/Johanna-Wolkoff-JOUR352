@@ -4,6 +4,33 @@
     .fullwidthimage {
         width: 100%
     }
+    body {
+        background:#ede0d4;
+        font-family: 'Playfair Display', serif;
+        color: #582f0e;
+    }
+    h1 {
+        font-size: 47px;
+        font-weight: bold;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 15px;
+    }
+    .heading {
+        font-weight:bold;
+    }
+    .names {
+        font-weight:bolder;
+        font-size: 30px;
+    }
+    #footer {
+    background-color:#582f0e;
+    color: #ede0d4;
+    text-align: right;
+}
 }
 
 @media (min-width: 576px) {
