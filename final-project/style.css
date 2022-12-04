@@ -7,7 +7,7 @@
     body {
         background:#ede0d4;
         font-family: 'Playfair Display', serif;
-        color: #582f0e;
+        color: #000000;
     }
     h1 {
         font-size: 47px;
@@ -27,10 +27,44 @@
         font-size: 30px;
     }
     #footer {
-    background-color:#582f0e;
-    color: #ede0d4;
+    color: #000000;
     text-align: right;
 }
+       
+       .quote {
+           padding:10px 0px 10px 0px;
+           font-size: 30px;
+           text-align: center;
+           font-family:'Fjalla One', sans-serif;
+           font-weight: bold;
+       }
+       
+       .attribution {
+           text-align:right;
+           padding:0px 20px 5px 0px;
+       }
+    .gary-first-pic {
+       margin-left:60px;
+        width:30%
+    }
+    .taylor-first-pic {
+        width:30%
+    }
+    .davon-first-pic {
+        width:30%
+    }
+     .davon-second-pic {
+        width:50%;
+        margin-left: 200px;
+    }
+     .taylor-second-pic {
+        width:50%;
+        margin-left: 200px;
+    }
+     .gary-second-pic {
+        width:50%;
+        margin-left: 200px;
+    }
 }
 
 @media (min-width: 576px) {
