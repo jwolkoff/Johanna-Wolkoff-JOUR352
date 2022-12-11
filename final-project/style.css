@@ -10,7 +10,7 @@
         color: #000000;
     }
     h1 {
-        font-size: 47px;
+        font-size: 48px;
         font-weight: bold;
     }
     h2 {
@@ -30,13 +30,15 @@
     color: #000000;
     text-align: right;
 }
-       
+        
        .quote {
            padding:10px 0px 10px 0px;
            font-size: 30px;
            text-align: center;
            font-family:'Fjalla One', sans-serif;
            font-weight: bold;
+           border-style:solid;
+           border-width:medium;
        }
        
        .attribution {
@@ -44,7 +46,7 @@
            padding:0px 20px 5px 0px;
        }
     .gary-first-pic {
-       margin-left:60px;
+       margin-left:15px;
         width:30%
     }
     .taylor-first-pic {
@@ -55,9 +57,64 @@
     }
      .davon-second-pic {
         width:50%;
-        margin-left: 200px;
     }
      .taylor-second-pic {
+        width:50%;
+    }
+     .gary-second-pic {
+        width:50%;
+    }
+     }
+    .resources {
+        font-size:25px;
+        border-style:solid;
+        border-width:thick;
+        padding: 0px 20px 0px 20px;
+        text-align:center;
+    }
+
+}
+
+@media (min-width: 576px) {
+    /*Tablet-only styles here*/
+    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
+    h1 {
+        font-size: 37px;
+    }
+      .gary-first-pic {
+       margin-left:20px;
+        width:30%
+    }
+     .davon-second-pic {
+        width:50%;
+        margin-left:110px;
+    }
+    .taylor-second-pic {
+        width:50%;
+        margin-left: 110px;
+    }
+     .gary-second-pic {
+        width:50%;
+        margin-left: 110px;
+
+
+
+@media (min-width: 992px) {
+    /*Desktop-only styles here*/
+    /*This media query targets any screen that is at least 992px wide*/
+    
+    h1 {
+        font-size:40px;
+    }
+     .gary-first-pic {
+       margin-left:20px;
+        width:30%
+    }
+     .davon-second-pic {
+        width:50%;
+        margin-left:200px;
+    }
+    .taylor-second-pic {
         width:50%;
         margin-left: 200px;
     }
@@ -65,16 +122,6 @@
         width:50%;
         margin-left: 200px;
     }
-}
-
-@media (min-width: 576px) {
-    /*Tablet-only styles here*/
-    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
-}
-
-@media (min-width: 992px) {
-    /*Desktop-only styles here*/
-    /*This media query targets any screen that is at least 992px wide*/
 }
 
 @media (min-width: 1200px) {
